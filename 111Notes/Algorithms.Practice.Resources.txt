@@ -1,0 +1,20 @@
+https://codility.com/
+http://code.google.com/codejam - contests from 2008
+http://acm.lviv.ua/fusion/news.php
+http://codeforces.com/problemset
+========================================
+What application tracking system (ATS) are you currently using? 
+Advorto
+Bullhorn
+Greenhouse
+iCIMS
+Jobvite
+Lever
+Recruiterbox
+Resumator
+SmartRecruiters
+Taleo
+Workable
+Other
+Own system
+========================================
